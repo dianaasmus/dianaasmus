@@ -1,5 +1,5 @@
 # 💫 About Me:
-👩🏽‍💻Working as a Frontend Dev<br>🤝Always open for feedback<br>🌱Currently learning python<br>💬Feel free to ask me anything<br><br>⚡️Switching between Mac and windows<br>
+👩🏽‍💻 Working as a Frontend Dev<br>🤝 Always open for feedback<br>🌱 Currently learning python<br>💬 Feel free to ask me anything<br><br>⚡️ Switching between Mac and Windows<br>
 
 
 ## 🌐 Socials:
