@@ -1,5 +1,5 @@
 # 💫 About Me:
-👩🏽‍💻 Working as a developer<br>🤝 Always open for feedback<br>🌱 Currently learning Django<br>💬 Feel free to ask me anything<br><br>⚡️ Switching between Mac and Windows<br>
+👩🏽‍💻 Working as a developer<br>🤝 Always open for feedback<br>🌱 Currently learning Django & Vue.js<br>💬 Feel free to ask me anything<br><br>⚡️ Switching between Mac and Windows<br>
 
 
 ## 🌐 Socials:
